@@ -40,15 +40,6 @@ This is a simple browser-based **Tic Tac Toe** game built using **HTML**, **CSS*
 - Automatically shows winner message or "Tie".
 
 ---
-
-## 📸 Preview
-
-<img src="https://user-images.githubusercontent.com/example/tictactoe-demo.gif" alt="Game Demo" width="400"/>
-
-> *(Replace the image link with a real screenshot or GIF if you like)*
-
----
-
 ## 🛠 Built With
 
 - HTML5
